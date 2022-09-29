@@ -1,2 +1,2 @@
 # Flex-Python
-Flex Python opdrachten van Mathilde SD1A
+Flex Python opdrachten van Mathilde klas: SD1A
