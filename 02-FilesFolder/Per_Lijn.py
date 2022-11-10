@@ -1,0 +1,1 @@
+bestand = open("klasgenoten.txt", "r")
